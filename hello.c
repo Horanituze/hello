@@ -4,5 +4,7 @@ int main(void){
 
 printf("Jocelyne Horanituze\n");
 
+  printf("Integrated Science");
+
 return 0;
 }
